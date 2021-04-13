@@ -6,7 +6,7 @@
 
 ## Parser 简介
 
-可以参考 [TiDB 源码阅读系列之 TiDB SQL Parser 的实现](https://pingcap.com/blog-cn/tidb-source-code-reading-5/)。
+可以参考 [TiDB 源码阅读系列之 TiDB SQL Parser 的实现](https://pingcap.com/blog-cn/tidb-source-code-reading-5/ )。
 
 ## 作业描述
 
